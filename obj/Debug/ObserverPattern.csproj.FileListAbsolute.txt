@@ -1,7 +1,0 @@
-C:\Users\sis\Desktop\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
-C:\Users\sis\Desktop\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
-C:\Users\sis\Desktop\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
-C:\Users\sis\Desktop\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
-C:\Users\sis\Desktop\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csproj.CoreCompileInputs.cache
-C:\Users\sis\Desktop\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
-C:\Users\sis\Desktop\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
